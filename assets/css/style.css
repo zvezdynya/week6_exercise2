@@ -28,7 +28,6 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(4, 1fr);
     grid-area: 3/1/4/2;
-    border: 1px solid black;
 }
 
 .more_1,
